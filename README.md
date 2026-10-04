@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/readme/hero.gif" width="100%" alt="Work Report：将工作记录整理为日报与周报草稿，经用户确认后提交钉钉，流程示意。">
+</p>
+
 # Work Report
 
 **把分散的工作记录，整理成先预览、再提交的钉钉日报与周报。**
