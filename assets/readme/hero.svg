@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="464" viewBox="0 0 1200 464" role="img" aria-labelledby="hero-title hero-description">
+  <title id="hero-title">Work Report — 先预览，再提交</title>
+  <desc id="hero-description">流程示意：将 Codex 工作摘要与钉钉记录整理为日报或周报草稿，经用户确认后通过 DWS 提交。不是实际工作记录或提交结果。</desc>
+  <rect width="1200" height="464" fill="#F6F5F0"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" fill="#172C3A">
+    <g id="identity">
+      <text x="64" y="55" font-size="18" font-weight="600" letter-spacing="3" fill="#5C6D77">CODEX × DINGTALK</text>
+      <text x="60" y="143" font-family="Arial" font-size="78" font-weight="700" letter-spacing="-3">Work Report</text>
+      <text x="64" y="205" font-size="40" font-weight="500">先预览，再提交</text>
+    </g>
+    <g id="source-evidence">
+      <path d="M64 245h32m-32 12h48m-48 12h40" fill="none" stroke="#177B67" stroke-width="3" stroke-linecap="round"/>
+      <text x="132" y="265" font-size="24" fill="#5C6D77">工作摘要 + 钉钉记录</text>
+      <path d="M456 253h176m-9-9 9 9-9 9" fill="none" stroke="#5C6D77" stroke-opacity=".45" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g id="report-sheet">
+      <path d="M720 48h352l64 64v166a16 16 0 0 1-16 16H720a16 16 0 0 1-16-16V64a16 16 0 0 1 16-16Z" fill="#F6F5F0" stroke="#172C3A" stroke-opacity=".24" stroke-width="2"/>
+      <path d="M1072 48v48a16 16 0 0 0 16 16h48" fill="none" stroke="#172C3A" stroke-opacity=".24" stroke-width="2"/>
+      <text x="736" y="106" font-size="32" font-weight="600">日报 / 周报</text>
+      <path d="M736 129h280" stroke="#172C3A" stroke-opacity=".16" stroke-width="2"/>
+      <rect x="1050" y="213" width="48" height="48" rx="8" fill="none" stroke="#177B67" stroke-opacity=".4" stroke-width="2"/>
+    </g>
+    <g id="report-lines" fill="none" stroke="#5C6D77" stroke-linecap="round">
+      <path d="M740 160h232M740 194h184M740 228h248" stroke-width="6" stroke-opacity=".55"/>
+      <path d="M740 260h128" stroke-width="6" stroke-opacity=".2"/>
+    </g>
+    <g id="approval-mark">
+      <rect x="1050" y="213" width="48" height="48" rx="8" fill="#177B67"/>
+      <path d="m1062 237 8 8 17-20" fill="none" stroke="#F6F5F0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g id="workflow-base">
+      <path d="M160 340H1040" stroke="#5C6D77" stroke-opacity=".2" stroke-width="2"/>
+      <g fill="#F6F5F0" stroke="#5C6D77" stroke-opacity=".5" stroke-width="2">
+        <circle cx="160" cy="340" r="16"/>
+        <circle cx="448" cy="340" r="16"/>
+        <circle cx="752" cy="340" r="16"/>
+        <circle cx="1040" cy="340" r="16"/>
+      </g>
+      <g font-size="40" font-weight="600" text-anchor="middle">
+        <text x="160" y="402">记录</text>
+        <text x="448" y="402">草稿</text>
+        <text x="752" y="402">确认</text>
+        <text x="1040" y="402">钉钉</text>
+      </g>
+      <text x="64" y="442" font-size="18" fill="#5C6D77">流程示意 · 发送由你决定</text>
+      <text x="1136" y="442" font-size="18" text-anchor="end" fill="#5C6D77">DAILY / WEEKLY</text>
+    </g>
+    <g id="draft-progress">
+      <path d="M160 340h288" fill="none" stroke="#177B67" stroke-width="3"/>
+      <circle cx="160" cy="340" r="16" fill="#177B67"/>
+      <circle cx="448" cy="340" r="16" fill="#177B67"/>
+      <circle cx="160" cy="340" r="5" fill="#F6F5F0"/>
+      <circle cx="448" cy="340" r="5" fill="#F6F5F0"/>
+    </g>
+    <g id="review-progress">
+      <path d="M448 340h304" fill="none" stroke="#177B67" stroke-width="3"/>
+      <circle cx="752" cy="340" r="16" fill="#E2AB5B"/>
+      <path d="m745 340 5 5 9-11" fill="none" stroke="#172C3A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g id="delivery-progress">
+      <path d="M752 340h288" fill="none" stroke="#177B67" stroke-width="3"/>
+      <circle cx="1040" cy="340" r="16" fill="#177B67"/>
+      <path d="m1033 340 5 5 9-11" fill="none" stroke="#F6F5F0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
