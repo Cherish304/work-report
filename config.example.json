@@ -1,0 +1,12 @@
+{
+  "timezone": "Asia/Shanghai",
+  "auto_submit": false,
+  "confirmation_minutes": 5,
+  "dws_path": null,
+  "daily_time": "18:30",
+  "weekly_day": "MO",
+  "weekly_time": "18:00",
+  "weekly_mode": "previous_workweek",
+  "daily_template_name": "日报",
+  "weekly_template_name": "周报"
+}
